@@ -9,7 +9,7 @@ Welcome to the House Price Prediction Project! This project is a machine learnin
 - **Environment**: Jupyter Notebook
 
 ## Dataset
-The dataset used in this project is from [Kaggle's California Housing Prices Dataset]([https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/datasets/camnugent/california-housing-prices)). It includes features like the size of the house, number of rooms, location, etc.
+The dataset used in this project is from [Kaggle's California Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). It includes features like the size of the house, number of rooms, location, etc.
 
 ## Model
 We use various regression models like Linear Regression and Random Forest to predict house prices. The model selection and tuning are demonstrated in the notebook.
