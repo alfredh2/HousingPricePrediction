@@ -19,7 +19,7 @@ To run this project, follow these steps:
 1. Ensure that Python 3 and Jupyter Notebook are installed on your machine.
 2. Clone this repository:
    ```
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/alfredh2/HousingPricePrediction.git
    ```
 3. Navigate to the cloned repository.
 4. Install required dependencies:
@@ -38,4 +38,4 @@ To run this project, follow these steps:
 
 
 ## Results
-The notebook includes a detailed analysis of model performance and accuracy metrics. We compare different models and discuss the best-performing model for this dataset.
+The notebook includes a detailed analysis of model performance and accuracy metrics. We compare different models and discuss the best-performing model for this dataset. To read about my experience working on this project, go to my Medium article on it: https://medium.com/@alfredpmhofmann/project-1-predicting-california-housing-prices-using-machine-learning-d82e1998e2f7
